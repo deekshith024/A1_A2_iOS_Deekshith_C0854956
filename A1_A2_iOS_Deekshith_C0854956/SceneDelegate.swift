@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  A1_A2_iOS_Deekshith_C0854956
 //
-//  Created by Karthik Reddy Rondla on 2022-05-24.
+//  Created by Deekshith Reddy on 2022-05-24.
 //
 
 import UIKit
